@@ -1,0 +1,5 @@
+{
+  "servicio": "pagos",
+  "latencia_ms": 220,
+  "estado_esperado": "OK"
+}

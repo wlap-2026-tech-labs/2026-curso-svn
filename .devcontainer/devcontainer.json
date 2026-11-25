@@ -1,0 +1,5 @@
+{
+  "name": "Entorno SVN",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12-bookworm",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y subversion"
+}

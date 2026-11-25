@@ -1,0 +1,6 @@
+{
+  "servicio": "pagos_v1",
+  "latencia_ms": 150,
+  "estado_esperado": "OK",
+  "nota": "Ejemplo obsoleto pendiente de retirada"
+}
