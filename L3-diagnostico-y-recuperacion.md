@@ -13,7 +13,7 @@ Identificar la revisión que introdujo una configuración inválida, reparar el 
   ```bash
   bash scripts/reset-lab.sh L3
   source /tmp/svn-sandboxes/L3/lab.env
-  cd /workspaces/2026-svn-test/practicas-svn/L3/monitor-servicios
+  cd /workspaces/2026-curso-svn/practicas-svn/L3/monitor-servicios
   ```
 
 ### En qué consiste
