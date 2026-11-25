@@ -14,7 +14,7 @@ Registrar un commit acotado, coherente y verificable con una mejora de mantenimi
   ```bash
   bash scripts/reset-lab.sh L2
   source /tmp/svn-sandboxes/L2/lab.env
-  cd /workspaces/2026-svn-test/practicas-svn/L2/monitor-servicios
+  cd /workspaces/2026-curso-svn/practicas-svn/L2/monitor-servicios
   ```
 
 ### En qué consiste
