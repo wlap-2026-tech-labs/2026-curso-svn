@@ -8,7 +8,7 @@ Registrar un commit acotado, coherente y verificable con una mejora de mantenimi
 
 ### Punto de partida
 
-- Copia de trabajo de `trunk` preparada para L2 en `/workspaces/2026-svn-test/practicas-svn/L2/monitor-servicios`.
+- Copia de trabajo de `trunk` preparada para L2 en `cd /workspaces/2026-curso-svn/practicas-svn/L2/monitor-servicios`.
 - Una copia limpia no contiene cambios ajenos por sí sola: el mecanismo de preparación del escenario de L2 cargará en tu copia de trabajo la edición accidental en `README.md` y el archivo sin versionar `debug_local.log`.
 - Carga el escenario de L2 ejecutando:
   ```bash
